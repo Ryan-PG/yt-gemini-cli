@@ -1,0 +1,15 @@
+- [x] Create `index.html` for the basic structure of the resume.
+- [x] Create `style.css` to style the website.
+- [x] Create `script.js` for any interactive elements.
+- [x] Design the layout of the resume, including:
+    - [x] Header with name and contact information.
+    - [x] A summary or objective section.
+    - [x] Work experience section.
+    - [x] Education section.
+    - [x] Skills section.
+    - [x] Projects section.
+- [x] Write the HTML content for each section.
+- [x] Use CSS to style the resume, making it visually appealing.
+- [x] Add JavaScript for any dynamic features or animations.
+- [x] Test the website to ensure it is responsive and works on different browsers.
+- [ ] Deploy the website to a hosting service.
